@@ -4227,3 +4227,7 @@
 			}
 
 		}
+
+#three,#four,#footer section{
+	display: none;
+}
